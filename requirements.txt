@@ -1,7 +1,6 @@
-streamlit
-pandas
-numpy
-scikit-learn
-statsmodels
-matplotlib
+scikit-learn==1.6.1
+statsmodels==0.14.0
+pandas==2.2.2
+numpy==1.26.4
+streamlit==1.35.0
 openpyxl
